@@ -4,8 +4,7 @@ A clean, responsive food website landing page built with **pure HTML, CSS, and J
 
 ## 🌐 Live Demo
 
-> 🔗 **[https://your-username.github.io/foodies](https://your-username.github.io/foodies)**
-> *(Replace with your actual GitHub Pages / Netlify URL after deployment)*
+> 🔗 **[https://rasel66.github.io/assignment_1_foodies/](https://rasel66.github.io/assignment_1_foodies/)**
 
 ---
 
